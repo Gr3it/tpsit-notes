@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on TPSIT Notes</title>
-    <link>/categories/</link>
+    <link>/it/categories/</link>
     <description>Recent content in Categories on TPSIT Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Feb 2021 17:15:00 +0100</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Feb 2021 21:43:46 +0100</lastBuildDate><atom:link href="/it/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Software Requirements</title>
-      <link>/categories/software-requirements/</link>
-      <pubDate>Tue, 23 Feb 2021 17:15:00 +0100</pubDate>
+      <title>Requisiti Software</title>
+      <link>/it/categories/requisiti-software/</link>
+      <pubDate>Mon, 15 Feb 2021 21:43:46 +0100</pubDate>
       
-      <guid>/categories/software-requirements/</guid>
+      <guid>/it/categories/requisiti-software/</guid>
       <description></description>
     </item>
     

@@ -3,6 +3,8 @@
 .firebaserc
 .github/
 public/
+.DS_Store
+*/.DS_Store
 
 # Logs
 logs
